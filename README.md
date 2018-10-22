@@ -9,4 +9,5 @@ In the defined CNN, first layers embeds words into low-dimensional vectors. The 
 Cross-entropy loss function is being used in our defined model. Adaptive Moment Estimation optimizer is used to optimize the network's loss function.
 
 Results can be visualized by running the following command:
+
 tensorboard --logdir /PATH_TO_CODE/runs/1449760558/summaries/
